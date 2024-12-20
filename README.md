@@ -24,3 +24,5 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
+<hr>
+<p><strong>About Me</strong>: I'm currently a sophomore at WashU. I have a deep passion for exploring both theoretical and practical application of programming as well mathematics. I'm particularly interested in leveraging these skills to develop innovative solutions in education and finance to deliver new technological solutions to old problems</p>
